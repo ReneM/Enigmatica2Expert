@@ -1,8 +1,6 @@
 #modloaded extrautils2
 print("--- loading ExtraUtilities2.zs ---");
 	
-# *======= Recipes =======*
-
 # Bag of Holding
 	recipes.remove(<extrautils2:bagofholding>);
 	
