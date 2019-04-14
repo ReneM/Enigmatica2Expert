@@ -1,0 +1,18 @@
+{
+  "id": "Portal (Deep Dark)_-221,178,304",
+  "name": "Portal (Deep Dark)",
+  "icon": "waypoint-normal.png",
+  "x": -221,
+  "y": 178,
+  "z": 304,
+  "r": 86,
+  "g": 197,
+  "b": 142,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    -11325
+  ],
+  "persistent": true
+}

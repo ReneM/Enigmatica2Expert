@@ -1,0 +1,18 @@
+{
+  "id": "Portal Nether_-56,85,272",
+  "name": "Portal Nether",
+  "icon": "waypoint-normal.png",
+  "x": -56,
+  "y": 85,
+  "z": 272,
+  "r": 90,
+  "g": 154,
+  "b": 151,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    -1
+  ],
+  "persistent": true
+}
