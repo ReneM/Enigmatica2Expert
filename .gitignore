@@ -9,7 +9,7 @@
 /llibrary/
 /saves/
 /TombManyGraves/
-screenshots/
+/screenshots/
 /mods/
 /world/
 
@@ -40,9 +40,7 @@ WailaErrorOutput.txt
 ItemDump.txt
 BotaniaVars.dat
 options.txt
-settings.cfg
 ServerStartLinux.sh
-ServerStart.bat
 README.md
 LICENSE_SERVER.md
 crafttweaker.log
@@ -56,7 +54,6 @@ config/scavenge/IResourceProperty.txt
 dropt.log
 journeymapdefaults.firstrun
 *.zip
-*.dll
 server.properties
 astralsorcery/gatewayFilter/worldFilter.dat
 OpenComputersMod-1.7.3.146-lua53-native.64.dll
@@ -81,3 +78,15 @@ eula.txt
 banned-players.json
 banned-ips.json
 ChangelogGenerator.jar
+
+# Instance Sync
+**/*.jar
+!InstanceSync*.jar
+**/*.jar.disabled
+**/*.jar.meta
+config/brandon3055/ProjectIntelligence/ModDocs/
+patchouli_data.json
+oldmanifest.json
+config/AppliedEnergistics2/items.csv
+OpenComputersMod-1.7.4.153-lua53-native.64.dll
+OpenComputersMod-1.7.4.153-lua52-native.64.dll
